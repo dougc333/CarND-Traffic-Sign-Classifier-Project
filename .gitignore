@@ -1,0 +1,14 @@
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+*.gz
+*.zip
+
+**/.zip
+**/.gz
+**/.meta
+**/.index
+traffic-signs-data.zip
