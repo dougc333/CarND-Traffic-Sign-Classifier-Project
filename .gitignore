@@ -1,3 +1,5 @@
+10EPOCHS.ckpt.data-00000-of-00001
+30EPOCHS.ckpt.data-00000-of-00001
 data
 .ipynb_checkpoints
 *.h5
@@ -6,9 +8,13 @@ models
 *.p
 *.gz
 *.zip
-
+*.csv
+*.p
+*.index
+*.meta
 **/.zip
 **/.gz
 **/.meta
 **/.index
 traffic-signs-data.zip
+
